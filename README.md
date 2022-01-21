@@ -1,2 +1,2 @@
 # repositorio para hacer pruebas
-Repositorio para ahcer pruebas de uso de github
+Repositorio para hacer pruebas de uso de github
